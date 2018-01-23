@@ -1,0 +1,21 @@
+body {
+  height: 100vh;
+  color: #EEE;
+  background-image: url("../images/mindflux-bkgd.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+#main {
+  height: 100%;
+  padding: 2em;
+  background-color: rgba(13, 13, 91, 0.75);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#main h1 {
+  font-size: 4em;
+}
